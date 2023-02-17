@@ -1,2 +1,2 @@
-# telegram_homework_bot
-Проверяет изменение статуса домашней работы на API Яндекс.Практикум
+# homework_bot
+python telegram bot
